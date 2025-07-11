@@ -101,6 +101,9 @@ client/
 - `PUT /api/todos/:id` - Edit todo
 - `DELETE /api/todos/:id` - Delete todo
 
+# ToDo App UI
+
+![pic](./client/public/pic1.png)
 
 
 
