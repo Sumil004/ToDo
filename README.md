@@ -101,9 +101,8 @@ client/
 - `PUT /api/todos/:id` - Edit todo
 - `DELETE /api/todos/:id` - Delete todo
 
-## License
 
-MIT
+
 
 ---
 
